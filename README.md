@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Khushi Gupta! 👋</h1>
 
 <p align="center">
-Aspiring AI & ML Engineer | App Developer | Research Enthusiast | Sportswoman | Student Leader<br>
+Aspiring AI & ML Engineer | Research Enthusiast<br>
 I’m passionate about building smart tech—combining AI, deep learning, and web technologies to solve real-world problems.  I love turning complex ideas into interactive, impactful solutions 
 </p>
 
