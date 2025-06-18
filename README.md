@@ -30,7 +30,7 @@ I’m passionate about building smart tech—combining AI, deep learning, and we
 ---
 ### 🔍 Featured Projects
 
-#### 🧪 [Backend‑Drug‑Interaction‑Checker](https://github.com/kg7825881/Backend-Drug-Interaction-Checker-)  
+#### 🧪 [Drug‑Interaction‑Checker](https://github.com/kg7825881/Backend-Drug-Interaction-Checker-)  
 Python script (`kh.py`) that checks for overdose risk, side effects, and drug interactions—practical logic for healthcare apps.
 
 #### 💡 [Face‑Detection](https://github.com/kg7825881/Face-Detection)  
