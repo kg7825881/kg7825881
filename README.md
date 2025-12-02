@@ -44,6 +44,10 @@ Responsive multi-page HTML/CSS layouts showcasing UI/UX basics.
 
 ---
 
+## 📊 Code Profiles
+
+![](https://leetcard.jacoblin.cool/kh_gupta?theme=unicorn)
+
 ## 📈 GitHub Stats
 
 <p align="center">
