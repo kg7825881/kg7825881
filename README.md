@@ -45,7 +45,11 @@ Responsive multi-page HTML/CSS layouts showcasing UI/UX basics.
 ---
 
 ## 📈 GitHub Stats
-[![kg7825881 GitHub stats](https://github-readme-stats.vercel.app/api?username=kg7825881)](https://github.com/kg7825881/github-readme-stats)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kg7825881&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kg7825881&layout=compact&theme=radical" height="170" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kg7825881&theme=radical" height="180" />
