@@ -51,7 +51,7 @@ Responsive multi-page HTML/CSS layouts showcasing UI/UX basics.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kg7825881&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=58A6FF&icon_color=58A6FF" alt="Khushi's GitHub stats" height="180"/>
+  <img src="https://kg7825881.vercel.app/api?username=kg7825881&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=58A6FF&icon_color=58A6FF" alt="Khushi's GitHub stats" height="180"/>
 </p>
 
 <p align="center">
