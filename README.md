@@ -48,7 +48,6 @@ Responsive multi-page HTML/CSS layouts showcasing UI/UX basics.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kg7825881&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kg7825881&layout=compact&theme=radical" height="170" />
 </p>
 
 <p align="center">
