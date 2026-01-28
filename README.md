@@ -39,8 +39,8 @@ Python script (`kh.py`) that checks overdose risk, side effects, and drug intera
 ### 💡 [Face-Detection](https://github.com/kg7825881/Face-Detection)  
 Real-time face detection using OpenCV and Python.
 
-### 🌐 [Technical-Web-task](https://github.com/kg7825881/Technical-Web-task)  
-Responsive multi-page HTML/CSS layouts showcasing UI/UX basics.
+### 🌐 [Diet-Recomender](https://github.com/kg7825881/Diet-Recommender)  
+
 
 ---
 
@@ -50,13 +50,24 @@ Responsive multi-page HTML/CSS layouts showcasing UI/UX basics.
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://kg7825881.vercel.app/api?username=kg7825881&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=58A6FF&icon_color=58A6FF" alt="Khushi's GitHub stats" height="180"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kg7825881&theme=radical" height="180" />
-</p>
+  <table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=kg7825881&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kg7825881&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=kg7825881&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph"/>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
