@@ -12,8 +12,7 @@ I love turning complex ideas into interactive, impactful solutions.
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering (AI & ML) at VIT Bhopal — *3rd Year*
-- 🔭 Currently working on a **Brain–Computer Interface (BCI)** using EEG signal classification  
+- 🎓 B.Tech in Computer Science & Engineering (AI & ML) at VIT Bhopal — *3rd Year* 
 - 🛠 Building projects in AI, ML, NLP, and App Development  
 - 🧠 Research Interest: Artificial Intelligence & Machine Learning  
 - 🌱 Contributing to SSOC (Earthquake Detector App)  
@@ -45,8 +44,14 @@ Real-time face detection using OpenCV and Python.
 ---
 
 ## 📊 Code Profiles
+<div align="center">
 
-![](https://leetcard.jacoblin.cool/kh_gupta?theme=unicorn)
+| LeetCode | HackerRank |
+|---|---|
+| <a href="https://leetcode.com/kh_gupta/"><img src="https://leetcard.jacoblin.cool/kh_gupta?theme=dark&font=Overlock%20SC&ext=activity" width="400"/></a> | [![HackerRank Badges](https://hackerrank-badges.vercel.app/kg7825881?theme=dark)](https://www.hackerrank.com/profile/kg7825881) |
+
+</div>
+
 
 ## 📈 GitHub Stats
 
@@ -67,6 +72,10 @@ Real-time face detection using OpenCV and Python.
     </td>
   </tr>
 </table>
+
+![snake gif](https://raw.githubusercontent.com/kg7825881/kg7825881/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake gif](https://raw.githubusercontent.com/kg7825881/kg7825881/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 </div>
 
 ---
