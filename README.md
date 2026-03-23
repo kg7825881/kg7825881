@@ -15,10 +15,7 @@ I love turning complex ideas into interactive, impactful solutions.
 - 🎓 B.Tech in Computer Science & Engineering (AI & ML) at VIT Bhopal — *3rd Year* 
 - 🛠 Building projects in AI, ML, NLP, and App Development  
 - 🧠 Research Interest: Artificial Intelligence & Machine Learning  
-- 🌱 Contributing to SSOC (Earthquake Detector App)  
 - 📚 Passionate about continuous learning  
-- 📊 Currently learning **Data Analysis using Power BI**
-
 ---
 
 ## 💻 Tech Stack
