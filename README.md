@@ -29,13 +29,14 @@ I love turning complex ideas into interactive, impactful solutions.
 
 ## 🔍 Featured Projects
 
-### 🧪 [Drug-Interaction-Checker](https://github.com/kg7825881/Backend-Drug-Interaction-Checker-)  
-Python script (`kh.py`) that checks overdose risk, side effects, and drug interactions—practical logic for healthcare apps.
+### 📝 [**Editor's Digest - AI-Powered Web Summarizer**](https://github.com/kg7825881/Editor-s-Digest)  
+*Real-time Local LLM Summarization Tool*  
+> **Intelligent Content Extraction System** designed to transform long-form web content into concise, formatted summaries using a local **Qwen3-1.7B model**. Core innovation: **zero-latency local streaming** and secure **on-device inference** using a custom FastAPI-Ollama bridge. 
+> **Impact:** Reduces content consumption time by 80% while ensuring 100% data privacy by keeping all processing offline.    
+> 🛠 **Python, FastAPI, Ollama, Manifest V3, JavaScript, Marked.js, Qwen-Agent**
 
-### 💡 [Face-Detection](https://github.com/kg7825881/Face-Detection)  
-Real-time face detection using OpenCV and Python.
+---
 
-### 🌐 [Diet-Recomender](https://github.com/kg7825881/Diet-Recommender)  
 
 
 ---
@@ -57,10 +58,10 @@ Real-time face detection using OpenCV and Python.
   <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=kg7825881&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kg7825881&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=58A6FF&icon_color=58A6FF" height="180"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kg7825881&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kg7825881&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=58A6FF" height="180"/>
     </td>
   </tr>
   <tr>
