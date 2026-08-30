@@ -12,18 +12,24 @@ I love turning complex ideas into interactive, impactful solutions.
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering (AI & ML) at VIT Bhopal — *3rd Year* 
-- 🛠 Building projects in AI, ML, NLP, and App Development  
+- 🎓 B.Tech in Computer Science & Engineering (AI & ML) at VIT Bhopal — *Final Year* 
+- 🛠 Building projects in AI, ML, NLP, RAG and Web Development  
 - 🧠 Research Interest: Artificial Intelligence & Machine Learning  
 - 📚 Passionate about continuous learning  
 ---
 
 ## 💻 Tech Stack
 
-**Languages:** Python, C++, Java, HTML, CSS  
-**Frameworks & Libraries:** TensorFlow, PyTorch, Scikit-learn, OpenCV, MediaPipe, Rainforest, Flask, Pandas, Matplotlib  
-**Tools & Platforms:** Tkinter  
-**Skills:** Team Collaboration  
+* **Languages:** Python, Java, C++, Go, SQL, MATLAB, JavaScript.
+* **Web Development & Backend:** FastAPI, Flask, REST APIs, Microservices, React, Node.js,
+HTML5, CSS3, Authentication & Authorization, JWT, OAuth 2.0, WebAuthn (Passkeys), RBAC,
+ABAC, API Gateway.
+* **Databases & Cloud:** PostgreSQL, MySQL, Redis, AWS Cloud Services, Vercel, Render, CI/CD.
+* **AI/ML & Data Science:** TensorFlow, PyTorch, Scikit-learn, IBM watsonx.ai, Pandas,
+NumPy, OpenCV, Keras, NLP, Generative AI, LLMs, Conversational AI, Chatbot Evaluation,
+Prompt Engineering, Data Annotation, AI Data Curation, Insurance Claims Analysis, RAG.
+* **Developer Tools & Libraries:** Git, GitHub, Postman, Ollama, Qwen-Agent, Kaggle,
+Matplotlib, MediaPipe. 
 
 ---
 
