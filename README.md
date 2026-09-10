@@ -27,7 +27,7 @@ ABAC, API Gateway.
 * **Databases & Cloud:** PostgreSQL, MySQL, Redis, AWS Cloud Services, Vercel, Render, CI/CD.
 * **AI/ML & Data Science:** TensorFlow, PyTorch, Scikit-learn, IBM watsonx.ai, Pandas,
 NumPy, OpenCV, Keras, NLP, Generative AI, LLMs, Conversational AI, Chatbot Evaluation,
-Prompt Engineering, Data Annotation, AI Data Curation, Insurance Claims Analysis, RAG.
+Prompt Engineering, Data Annotation, AI Data Curation, Insurance Claims Analysis, RAG, LangChain.
 * **Developer Tools & Libraries:** Git, GitHub, Postman, Ollama, Qwen-Agent, Kaggle,
 Matplotlib, MediaPipe. 
 
