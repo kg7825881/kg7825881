@@ -64,12 +64,19 @@
 ---
 
 ## 🔍 Featured Projects
+### 📄 [VERA — AI Resume Analyzer](https://github.com/kg7825881/VERA---Resume--Analyzer)
+
+*Intelligent resume analysis platform*
+
+> An AI-powered tool for parsing resumes, identifying relevant skills, and generating meaningful feedback to help users evaluate and improve their profiles.  
+> 🛠️ `Python` · `NLP` · `LLMs` · `Resume Parsing` · `Explainable AI` · `FastAPI`
+---
 
 ### 📝 [**Editor's Digest - AI-Powered Web Summarizer**](https://github.com/kg7825881/Editor-s-Digest)  
 *Real-time Local LLM Summarization Tool*  
 > **Intelligent Content Extraction System** designed to transform long-form web content into concise, formatted summaries using a local **Qwen3-1.7B model**. Core innovation: **zero-latency local streaming** and secure **on-device inference** using a custom FastAPI-Ollama bridge. 
 > **Impact:** Reduces content consumption time by 80% while ensuring 100% data privacy by keeping all processing offline.    
-> 🛠 **Python, FastAPI, Ollama, Manifest V3, JavaScript, Marked.js, Qwen-Agent**
+> 🛠 `Python` · `FastAPI` · `Ollama` · `Manifest V3` · `JavaScript` · `Marked.js` · `Qwen-Agent`
 
 ---
 ### 🩺 [**AI Radiologist: Pneumonia Detection System**](https://github.com/kg7825881/AI-Radiologist)  
@@ -77,7 +84,7 @@
 > **Automated Diagnostic Tool** designed to assist in the identification of pneumonia from chest X-ray images. This project implements a high-accuracy pipeline to streamline radiological screening.                                                                                   
 > **Pneumonia Classifier:** Employs a Deep Learning model to categorize chest X-rays into 'Normal' or 'Pneumonia' with high precision.
 > **Impact:** Enhances diagnostic workflows by providing rapid, automated feedback to medical professionals in high-volume environments.    
-> 🛠 **Python, TensorFlow, Keras, CNN, Chest X-ray Dataset, Medical Imaging**
+> 🛠 `Python` · `TensorFlow` · `Keras` · `CNN` · `Chest X-ray Dataset` · `Medical Imaging`
 
 ---
 ### 🎭 [**GAN Face Generator**](https://github.com/kg7825881/GAN-Face-Generator)
@@ -86,7 +93,7 @@
 > **Generative Architecture:** Developed an end-to-end pipeline using **DCGAN** and **WGAN-GP** (Wasserstein GAN with Gradient Penalty) to ensure training stability and mitigate mode collapse.
 > **Latent Space Interpolation:** Implemented features to visualize smooth transitions between generated faces, proving a continuous and meaningful representation of facial features.
 > **Live Deployment:** Model is fully accessible via an interactive web application hosted on **Hugging Face Spaces**, allowing for real-time inference.
-> 🛠️ **TensorFlow/Keras, CelebA Dataset, WGAN-GP, Hugging Face, GPU Acceleration (P100)**
+> 🛠️ `TensorFlow/Keras` · `CelebA Dataset` · `WGAN-GP` · `Hugging Face` · `GPU Acceleration (P100)`
 
 ---
 ### 🥗 [**Zaika Balance: Smart Diet Recommendation**](https://github.com/kg7825881/Diet-Recommender/tree/main)
@@ -95,7 +102,24 @@
 > **Predictive Accuracy:** Achieves a 92% accuracy rate in predicting individual calorie needs based on user-specific biometric data.
 > **Tailored Planning:** Generates custom diet recommendations by analyzing user preferences and health goals to create a balanced lifestyle approach.
 > **Modern Architecture:** Built as a scalable full-stack application, ensuring a seamless user experience from data input to results visualization.
-> 🛠️ **Flask, Next.js, Machine Learning, Python, Full-Stack Development**
+> 🛠️ `Flask` · `Next.js` · `Machine Learning` · `Python` · `Full-Stack Development`
+---
+### 🌐 [Web Development Projects](https://github.com/kg7825881/Web-Development)
+
+*Responsive web interfaces and practical frontend experiments*
+
+> A collection of web development projects that demonstrate responsive layouts, interactive user interfaces, and modern browser-based experiences.  
+> 🛠️ `HTML5` · `CSS3` · `JavaScript` · `React` · `Next.js`
+
+---
+
+### 🤖 [LLM Projects](https://github.com/kg7825881/LLM_projects)
+
+*Exploring practical applications of Large Language Models*
+
+> A hands-on collection of LLM-powered projects focused on conversational AI, retrieval-augmented generation, semantic search, and intelligent automation.  
+> 🛠️ `Python` · `LLMs` · `RAG` · `LangChain` · `Ollama` · `Embeddings`
+
 ---
 
 ## 📊 Code Profiles
@@ -110,23 +134,8 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-
-  <table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kg7825881&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=58A6FF&icon_color=58A6FF" height="180"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kg7825881&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=58A6FF" height="180"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=kg7825881&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph"/>
-    </td>
-  </tr>
-</table>
+![](https://github-readme-stats.shion.dev/api?username=kg7825881&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kg7825881&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![snake gif](https://raw.githubusercontent.com/kg7825881/kg7825881/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![snake gif](https://raw.githubusercontent.com/kg7825881/kg7825881/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
