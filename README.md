@@ -21,14 +21,13 @@ I love turning complex ideas into interactive, impactful solutions.
 ## 💻 Tech Stack
 
 * **Languages:** Python, Java, C++, Go, SQL, MATLAB, JavaScript.
-* **Web Development & Backend:** FastAPI, Flask, REST APIs, Microservices, React, Node.js,
-HTML5, CSS3, Authentication & Authorization, JWT, OAuth 2.0, WebAuthn (Passkeys), RBAC,
+* **Web Development & Backend:** FastAPI, Flask, REST APIs, Microservices, React, Next.js, Node.js, Electron, HTML5, CSS3, Authentication & Authorization, JWT, OAuth 2.0, WebAuthn (Passkeys), RBAC,
 ABAC, API Gateway.
-* **Databases & Cloud:** PostgreSQL, MySQL, Redis, AWS Cloud Services, Vercel, Render, CI/CD.
+* **Databases & Cloud:** PostgreSQL, MySQL, Redis, SQLite, AWS Cloud Services, Vercel, Render, CI/CD.
 * **AI/ML & Data Science:** TensorFlow, PyTorch, Scikit-learn, IBM watsonx.ai, Pandas,
 NumPy, OpenCV, Keras, NLP, Generative AI, LLMs, Conversational AI, Chatbot Evaluation,
-Prompt Engineering, Data Annotation, AI Data Curation, Insurance Claims Analysis, RAG, LangChain.
-* **Developer Tools & Libraries:** Git, GitHub, Postman, Ollama, Qwen-Agent, Kaggle,
+Prompt Engineering, Data Annotation, AI Data Curation, Insurance Claims Analysis, RAG, Semantic Search, Embeddings, Cross-Encoder Reranking, Resume Parsing, Explainable AI Scoring, LangChain.
+* **Developer Tools & Libraries:** Git, GitHub, Postman, Ollama, PyInstaller, electron-builder, WebLLM, Qwen-Agent, Kaggle,
 Matplotlib, MediaPipe. 
 
 ---
