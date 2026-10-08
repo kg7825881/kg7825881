@@ -18,17 +18,45 @@ I love turning complex ideas into interactive, impactful solutions.
 - 📚 Passionate about continuous learning  
 ---
 
-## 💻 Tech Stack
+## 🧰 Tech Arsenal
 
-* **Languages:** Python, Java, C++, Go, SQL, MATLAB, JavaScript.
-* **Web Development & Backend:** FastAPI, Flask, REST APIs, Microservices, React, Next.js, Node.js, Electron, HTML5, CSS3, Authentication & Authorization, JWT, OAuth 2.0, WebAuthn (Passkeys), RBAC,
-ABAC, API Gateway.
-* **Databases & Cloud:** PostgreSQL, MySQL, Redis, SQLite, AWS Cloud Services, Vercel, Render, CI/CD.
-* **AI/ML & Data Science:** TensorFlow, PyTorch, Scikit-learn, IBM watsonx.ai, Pandas,
-NumPy, OpenCV, Keras, NLP, Generative AI, LLMs, Conversational AI, Chatbot Evaluation,
-Prompt Engineering, Data Annotation, AI Data Curation, Insurance Claims Analysis, RAG, Semantic Search, Embeddings, Cross-Encoder Reranking, Resume Parsing, Explainable AI Scoring, LangChain.
-* **Developer Tools & Libraries:** Git, GitHub, Postman, Ollama, PyInstaller, electron-builder, WebLLM, Qwen-Agent, Kaggle,
-Matplotlib, MediaPipe. 
+### 🤖 AI/ML & Data Science
+
+**Frameworks:** `TensorFlow` · `PyTorch` · `Scikit-learn` · `Keras` · `OpenCV` · `LangChain` · `MediaPipe`
+
+**Data & Visualization:** `Pandas` · `NumPy` · `Matplotlib` · `Kaggle`
+
+**AI Specializations:** `NLP` · `Generative AI` · `LLMs` · `Conversational AI` · `RAG` · `Semantic Search` · `Embeddings` · `Cross-Encoder Reranking`
+
+**Applied AI:** `Prompt Engineering` · `Chatbot Evaluation` · `Data Annotation` · `AI Data Curation` · `Resume Parsing` · `Explainable AI Scoring` · `Insurance Claims Analysis`
+
+---
+
+### 💻 Software Development
+
+**Languages:** `Python` · `Java` · `C++` · `Go` · `SQL` · `MATLAB` · `JavaScript`
+
+**Frontend & Desktop:** `React` · `Next.js` · `HTML5` · `CSS3` · `Electron` · `WebLLM`
+
+**Backend & Architecture:** `FastAPI` · `Flask` · `Node.js` · `REST APIs` · `Microservices` · `API Gateway`
+
+**Security & Access Control:** `Authentication & Authorization` · `JWT` · `OAuth 2.0` · `WebAuthn (Passkeys)` · `RBAC` · `ABAC`
+
+---
+
+### ☁️ Data, Cloud & Delivery
+
+**Databases:** `PostgreSQL` · `MySQL` · `Redis` · `SQLite`
+
+**Cloud & Deployment:** `AWS Cloud Services` · `Vercel` · `Render` · `CI/CD`
+
+---
+
+### 🛠️ Developer Tools & AI Utilities
+
+**Development Workflow:** `Git` · `GitHub` · `Postman` · `PyInstaller` · `electron-builder`
+
+**Local AI & Agents:** `Ollama` · `Qwen-Agent` · `IBM watsonx.ai`
 
 ---
 
