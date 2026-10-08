@@ -3,19 +3,22 @@
 <h1 align="center">Hi there, I'm Khushi Gupta! 👋</h1>
 
 <p align="center">
-<b>Aspiring AI & ML Engineer | Research Enthusiast</b><br>
-I’m passionate about building smart tech—combining AI, deep learning, and web technologies to solve real-world problems.  
-I love turning complex ideas into interactive, impactful solutions.
+  <b>AI/ML Engineer • Full-Stack Builder • Applied AI Enthusiast</b>
+</p>
+
+<p align="center">
+  I build practical, intelligent products that turn complex ideas into useful experiences—combining machine learning, LLMs, RAG, and modern web technologies to solve real-world problems.
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering (AI & ML) at VIT Bhopal — *Final Year* 
-- 🛠 Building projects in AI, ML, NLP, RAG and Web Development  
-- 🧠 Research Interest: Artificial Intelligence & Machine Learning  
-- 📚 Passionate about continuous learning  
+- 🎓 B.Tech student in **Computer Science & Engineering (AI & ML)**, building at the intersection of intelligent systems and full-stack software.
+- 🤖 Passionate about creating practical AI solutions using **LLMs, RAG, NLP, computer vision, and machine learning**.
+- 🛠️ Experienced in taking ideas from prototype to product with **Python, FastAPI, React, Next.js, databases, and cloud deployment**.
+- 🔎 Interested in building reliable, explainable, and user-centered systems for real-world problems.
+- 🌱 Continuously learning about **agentic AI, scalable backend architecture, and applied generative AI**.
 ---
 
 ## 🧰 Tech Arsenal
