@@ -69,7 +69,7 @@
 *Intelligent resume analysis platform*
 
 > An AI-powered tool for parsing resumes, identifying relevant skills, and generating meaningful feedback to help users evaluate and improve their profiles.  
-> 🛠️ `Python` · `NLP` · `LLMs` · `Resume Parsing` · `Explainable AI` · `FastAPI` · `Next.js` · `WebLLM` · `Electron-builder`· `PyInstaller` · `SQLite` · `Embeddings` 
+> 🛠️ `Python` · `NLP` · `LLMs` · `Resume Parsing` · `Ollama` · `FastAPI` · `Next.js` · `WebLLM` · `Electron-builder`· `PyInstaller` · `SQLite` · `Embeddings` · `React` · `PDF/DOCX Parsing` · `Explainable AI`
 ---
 
 ### 📝 [**Editor's Digest - AI-Powered Web Summarizer**](https://github.com/kg7825881/Editor-s-Digest)  
